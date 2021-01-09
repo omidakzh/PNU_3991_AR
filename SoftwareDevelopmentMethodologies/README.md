@@ -11,9 +11,6 @@
 - [SOP]()
 - [Certificates]()
 - [GitHub]()
-- [OA_CV_CheckList_AR_3991]()
-- [OA_GeneralSection_CheckList_AR_3991]()
-
 ------------------
 
  [ارائه درس متدولوژی فصل 21](https://drive.google.com/file/d/1SyRMgpXiubVxbHgE6Wf6XNgsnxXNzJIF/view?usp=sharing)
