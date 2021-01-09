@@ -11,8 +11,6 @@
 - [SOP]()
 - [Certificates]()
 - [GitHub]()
-- [OA_CV_CheckList_AR_3991]()
-- [OA_GeneralSection_CheckList_AR_3991]()
 
 ------------------
 
