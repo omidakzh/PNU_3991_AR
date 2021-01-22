@@ -7,10 +7,10 @@
 
 # امید اکبرزاده
 - [PNU_3991_AR](https://github.com/omidakzh/PNU_3991_AR)
-- [Resume]() 
-- [SOP]()
-- [Certificates]()
-- [GitHub]()
+- [Resume](https://omidakzh.ir) 
+- [SOP](https://omidakzh.ir)
+- [Certificates](https://omidakzh.ir)
+- [GitHub](https://github.com/omidakzh)
 
 --------------------
 > ارزیابی ها
